@@ -9,7 +9,7 @@ public class Aula {
 
       /* Segunda forma de declarar uma variavel  */
     double salario = 2500.95; 
-       int salarioInteiro = (int) salario;
+       int salarioInteiro = (int) salario; 
 
     System.out.println("O salario inteiro é: " + salarioInteiro );  
 
